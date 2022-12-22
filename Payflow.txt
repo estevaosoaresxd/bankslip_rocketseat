@@ -1,0 +1,34 @@
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\hubin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 22:E3:D6:7B:95:F8:E8:AA:02:29:2E:BA:C7:29:B1:2E
+SHA1: 4F:76:B7:37:19:9B:6D:45:1E:F8:1E:10:9A:B4:9F:31:6F:65:0E:D7
+SHA-256: 70:1D:EB:53:53:01:44:97:B7:41:98:26:E3:6D:EB:B2:6A:E8:27:A7:6D:51:F7:2C:11:16:44:8F:63:0C:E9:20
+Valid until: Quarta-feira, 18 de Outubro de 2051
+----------
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\hubin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 22:E3:D6:7B:95:F8:E8:AA:02:29:2E:BA:C7:29:B1:2E
+SHA1: 4F:76:B7:37:19:9B:6D:45:1E:F8:1E:10:9A:B4:9F:31:6F:65:0E:D7
+SHA-256: 70:1D:EB:53:53:01:44:97:B7:41:98:26:E3:6D:EB:B2:6A:E8:27:A7:6D:51:F7:2C:11:16:44:8F:63:0C:E9:20
+Valid until: Quarta-feira, 18 de Outubro de 2051
+----------
+Variant: releaseUnitTest
+Config: debug
+Store: C:\Users\hubin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 22:E3:D6:7B:95:F8:E8:AA:02:29:2E:BA:C7:29:B1:2E
+SHA1: 4F:76:B7:37:19:9B:6D:45:1E:F8:1E:10:9A:B4:9F:31:6F:65:0E:D7
+SHA-256: 70:1D:EB:53:53:01:44:97:B7:41:98:26:E3:6D:EB:B2:6A:E8:27:A7:6D:51:F7:2C:11:16:44:8F:63:0C:E9:20
+Valid until: Quarta-feira, 18 de Outubro de 2051
+----------
+Variant: profileUnitTest
+Config: debug
+Store: C:\Users\hubin\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 22:E3:D6:7B:95:F8:E8:AA:02:29:2E:BA:C7:29:B1:2E
+SHA1: 4F:76:B7:37:19:9B:6D:45:1E:F8:1E:10:9A:B4:9F:31:6F:65:0E:D7
+SHA-256: 70:1D:EB:53:53:01:44:97:B7:41:98:26:E3:6D:EB:B2:6A:E8:27:A7:6D:51:F7:2C:11:16:44:8F:63:0C:E9:20
